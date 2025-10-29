@@ -47,5 +47,4 @@ This project demonstrates strong understanding of relational database concepts a
 
 ---
 
-directly.
 
